@@ -1,0 +1,4 @@
+---
+float64 cumulative_odometry
+bool success
+uint8 error_code

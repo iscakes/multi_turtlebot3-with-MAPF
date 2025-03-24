@@ -1,0 +1,10 @@
+string map_name
+uint8 wall_mode
+uint8 IMAGE=0
+uint8 WORLD=1
+string map_uuid
+---
+VirtualWall[] wall_list
+bool success
+uint8 error_code
+string message

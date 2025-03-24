@@ -1,0 +1,13 @@
+uint8 mode
+uint8 LOCATION_UUID = 0
+uint8 SPECIALIZED_IMAGE_POSE = 1
+uint8 SPECIALIZED_WORLD_POSE = 2
+uint8 CURRENT_POSE = 3
+string location_uuid
+geometry_msgs/Pose2D image_pose
+geometry_msgs/PoseStamped pose
+float64[36] covariance
+---
+bool success
+uint8 error_code
+string message

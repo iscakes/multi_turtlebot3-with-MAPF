@@ -1,0 +1,19 @@
+uint8 command       # 'Start', 'Pause', 'Resume', 'Stop'
+uint8 START=0
+uint8 PAUSE=1
+uint8 RESUME=2
+uint8 STOP=3
+string cleaning_area_uuid
+bool resume_unfinished_task
+bool save_cleaning_process
+bool enable_track_contour
+int32 loop_count
+float64 track_back_dist
+bool enable_break_point
+geometry_msgs/PoseStamped break_robot_pose
+string break_subtask
+int32 break_loop_index
+---
+bool success
+uint8 error_code
+string message

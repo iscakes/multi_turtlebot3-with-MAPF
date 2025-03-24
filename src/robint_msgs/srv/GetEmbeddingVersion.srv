@@ -1,0 +1,4 @@
+---
+string protocal_version
+bool success
+uint8 error_code

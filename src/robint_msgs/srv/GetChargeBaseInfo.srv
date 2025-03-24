@@ -1,0 +1,4 @@
+---
+ChargeBaseInfo[] list
+bool success
+uint8 error_code

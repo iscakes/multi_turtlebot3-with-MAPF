@@ -1,0 +1,9 @@
+string map_uuid
+string map_name
+string location_uuid
+geometry_msgs/PoseStamped pose
+float64[36] covariance
+---
+bool success
+uint8 error_code
+string message

@@ -1,0 +1,6 @@
+string map_name
+string[] vw_uuid_list
+---
+bool success
+uint8 error_code
+string message

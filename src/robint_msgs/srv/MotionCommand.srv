@@ -1,0 +1,15 @@
+uint8 command       # 'Start', 'Pause', 'Continue', 'Stop'
+uint8 START=0
+uint8 PAUSE=1
+uint8 CONTINUE=2
+uint8 STOP=3
+uint8 type
+uint8 MOVE=11
+uint8 ROTATE=12
+uint8 CALL=13
+float32 dist
+float32 theta_degree
+---
+bool success
+uint8 error_code
+string message

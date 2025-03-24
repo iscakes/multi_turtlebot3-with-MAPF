@@ -1,0 +1,10 @@
+string area_uuid
+uint8 coordinate_mode
+uint8 IMAGE=0
+uint8 WORLD=1
+---
+CleaningArea area
+bool robot_is_inside_area
+bool success
+uint8 error_code
+string message

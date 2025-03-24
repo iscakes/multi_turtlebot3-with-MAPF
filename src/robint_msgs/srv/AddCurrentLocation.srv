@@ -1,0 +1,9 @@
+string map_name
+string type_name
+string location_name
+string map_uuid
+string group_uuid
+---
+Location location
+bool success
+uint8 error_code

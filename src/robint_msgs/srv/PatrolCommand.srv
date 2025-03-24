@@ -1,0 +1,6 @@
+string map_name
+string route_name
+string command       # 'Start', 'Pause', 'Continue', 'Stop'
+---
+bool success
+string message

@@ -1,0 +1,10 @@
+<library path="libroute_planner">
+  <class name="route_planner/RoutePlanner"
+         type="route_planner::RoutePlanner"
+         base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      Custom global planner for TurtleBot3.
+    </description>
+  </class>
+</library>
+

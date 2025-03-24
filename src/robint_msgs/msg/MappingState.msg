@@ -1,0 +1,6 @@
+TaskStateHeader header
+nav_msgs/OccupancyGrid map_data
+geometry_msgs/Pose2D image_pose
+geometry_msgs/PoseStamped pose
+uint8 r_state
+uint8 r_feedback

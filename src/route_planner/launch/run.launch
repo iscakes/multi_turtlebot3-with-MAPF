@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<launch>
+  <node pkg="route_planner" type="route_planner" name="route_planner" output="screen">
+    <param name="database_dir_path"       value="$(find map_widget_server)/database"/>
+    <param name="config_file_path"        value="$(find map_widget_server)/config/config.json"/>
+    <param name="yaml_path"               value=""/>
+  </node>
+</launch>

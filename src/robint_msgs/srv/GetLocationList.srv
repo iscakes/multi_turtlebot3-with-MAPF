@@ -1,0 +1,8 @@
+string map_name
+string type_name
+string map_uuid
+string[] uuid_list
+---
+Location[] location_list
+bool success
+uint8 error_code

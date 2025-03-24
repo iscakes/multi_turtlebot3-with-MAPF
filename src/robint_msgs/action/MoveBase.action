@@ -1,0 +1,10 @@
+geometry_msgs/PoseStamped target_pose
+string goal_type
+bool enable_goal_candidate_search
+bool enable_goal_increase_tolerance
+bool enable_fixed_straight_path
+---
+---
+geometry_msgs/PoseStamped base_position
+string state
+uint8 status

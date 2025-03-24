@@ -1,0 +1,18 @@
+string map_uuid
+uint8 coordinate_mode
+uint8 WORLD=0
+uint8 IMAGE=1
+uint8 method
+uint8 BOUSTROPHEDON=21
+uint8 CONTOUR_LINE=22
+uint8 STRIP_LINE=23
+uint8 RECTANGLE_ZIGZAG=24
+uint8 CONTOUR_PARALLEL=25
+uint8 METHOD_TEST=26
+CleaningArea area
+---
+uint8 coordinate_mode
+PathWithPoint[] paths
+bool success
+uint8 error_code
+string message

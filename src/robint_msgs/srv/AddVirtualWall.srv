@@ -1,0 +1,9 @@
+string map_name
+uint8 wall_mode
+uint8 WORLD=0
+uint8 IMAGE=1
+VirtualWall wall
+---
+bool success
+uint8 error_code
+string message

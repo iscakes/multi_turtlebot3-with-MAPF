@@ -1,0 +1,6 @@
+string target_loc_uuid
+geometry_msgs/Pose target_pose
+---
+NavigationTaskInfo task_info
+bool success
+uint8 error_code

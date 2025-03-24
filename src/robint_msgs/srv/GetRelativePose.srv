@@ -1,0 +1,13 @@
+string map_uuid
+string location_uuid
+string group_uuid
+geometry_msgs/Pose2D image_pose
+geometry_msgs/PoseStamped pose
+float32 offset_x
+float32 offset_y
+float32 offset_theta
+---
+geometry_msgs/Pose2D image_pose
+geometry_msgs/PoseStamped pose
+bool success
+uint8 error_code

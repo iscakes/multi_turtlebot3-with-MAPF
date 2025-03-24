@@ -1,0 +1,7 @@
+std_msgs/Header header
+string id
+string name
+geometry_msgs/Point32 center_of_world
+RectWithConfidence body_rect
+RectWithConfidence face_rect
+bool is_within_security_line

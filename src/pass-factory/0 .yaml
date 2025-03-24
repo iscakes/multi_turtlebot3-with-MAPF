@@ -1,0 +1,1237 @@
+building_name: RG371
+doors: {}
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {is_bidirectional: false}
+    - - 2
+      - 3
+      - {is_bidirectional: false}
+    - - 3
+      - 4
+      - {is_bidirectional: false}
+    - - 4
+      - 5
+      - {is_bidirectional: false}
+    - - 5
+      - 6
+      - {is_bidirectional: false}
+    - - 6
+      - 7
+      - {is_bidirectional: false}
+    - - 8
+      - 9
+      - {is_bidirectional: false}
+    - - 9
+      - 10
+      - {is_bidirectional: false}
+    - - 11
+      - 12
+      - {is_bidirectional: false}
+    - - 12
+      - 13
+      - {is_bidirectional: false}
+    - - 14
+      - 15
+      - {is_bidirectional: false}
+    - - 16
+      - 17
+      - {is_bidirectional: false}
+    - - 18
+      - 19
+      - {is_bidirectional: false}
+    - - 20
+      - 21
+      - {is_bidirectional: false}
+    - - 21
+      - 22
+      - {is_bidirectional: false}
+    - - 22
+      - 23
+      - {is_bidirectional: false}
+    - - 23
+      - 0
+      - {is_bidirectional: false}
+    - - 24
+      - 25
+      - {is_bidirectional: false}
+    - - 25
+      - 26
+      - {is_bidirectional: false}
+    - - 27
+      - 28
+      - {is_bidirectional: false}
+    - - 29
+      - 30
+      - {is_bidirectional: false}
+    - - 31
+      - 32
+      - {is_bidirectional: false}
+    - - 33
+      - 34
+      - {is_bidirectional: false}
+    - - 34
+      - 35
+      - {is_bidirectional: false}
+    - - 36
+      - 37
+      - {is_bidirectional: false}
+    - - 37
+      - 38
+      - {is_bidirectional: false}
+    - - 38
+      - 39
+      - {is_bidirectional: false}
+    - - 39
+      - 40
+      - {is_bidirectional: false}
+    - - 41
+      - 22
+      - {is_bidirectional: false}
+    - - 42
+      - 43
+      - {is_bidirectional: false}
+    - - 43
+      - 44
+      - {is_bidirectional: false}
+    - - 44
+      - 45
+      - {is_bidirectional: false}
+    - - 45
+      - 46
+      - {is_bidirectional: false}
+    - - 46
+      - 47
+      - {is_bidirectional: false}
+    - - 47
+      - 48
+      - {is_bidirectional: false}
+    - - 48
+      - 49
+      - {is_bidirectional: false}
+    - - 49
+      - 50
+      - {is_bidirectional: false}
+    - - 50
+      - 51
+      - {is_bidirectional: false}
+    - - 51
+      - 52
+      - {is_bidirectional: false}
+    - - 52
+      - 53
+      - {is_bidirectional: false}
+    - - 53
+      - 54
+      - {is_bidirectional: false}
+    - - 54
+      - 55
+      - {is_bidirectional: false}
+    - - 55
+      - 56
+      - {is_bidirectional: false}
+    - - 56
+      - 57
+      - {is_bidirectional: false}
+    - - 57
+      - 58
+      - {is_bidirectional: false}
+    - - 58
+      - 59
+      - {is_bidirectional: false}
+    - - 59
+      - 60
+      - {is_bidirectional: false}
+    - - 60
+      - 61
+      - {}
+    - - 61
+      - 60
+      - {}
+    - - 61
+      - 62
+      - {is_bidirectional: false}
+    - - 62
+      - 63
+      - {is_bidirectional: false}
+    - - 63
+      - 64
+      - {is_bidirectional: false}
+    - - 64
+      - 65
+      - {is_bidirectional: false}
+    - - 66
+      - 67
+      - {is_bidirectional: false}
+    - - 68
+      - 69
+      - {is_bidirectional: false}
+    - - 70
+      - 71
+      - {is_bidirectional: false}
+    - - 71
+      - 61
+      - {is_bidirectional: false}
+    - - 72
+      - 73
+      - {is_bidirectional: false}
+    - - 73
+      - 74
+      - {is_bidirectional: false}
+    - - 74
+      - 75
+      - {is_bidirectional: false}
+    - - 75
+      - 76
+      - {is_bidirectional: false}
+    - - 76
+      - 77
+      - {is_bidirectional: false}
+    - - 77
+      - 78
+      - {is_bidirectional: false}
+    - - 78
+      - 79
+      - {is_bidirectional: false}
+    - - 79
+      - 80
+      - {is_bidirectional: false}
+    - - 80
+      - 81
+      - {is_bidirectional: false}
+    - - 81
+      - 82
+      - {is_bidirectional: false}
+    - - 82
+      - 83
+      - {is_bidirectional: false}
+    - - 83
+      - 84
+      - {is_bidirectional: false}
+    - - 84
+      - 85
+      - {is_bidirectional: false}
+    - - 85
+      - 86
+      - {is_bidirectional: false}
+    - - 86
+      - 87
+      - {is_bidirectional: false}
+    - - 87
+      - 88
+      - {is_bidirectional: false}
+    - - 1
+      - 24
+      - {is_bidirectional: false}
+    - - 24
+      - 42
+      - {is_bidirectional: false}
+    - - 89
+      - 90
+      - {is_bidirectional: false}
+    - - 42
+      - 89
+      - {is_bidirectional: false}
+    - - 89
+      - 91
+      - {}
+    - - 91
+      - 89
+      - {}
+    - - 92
+      - 93
+      - {is_bidirectional: false}
+    - - 93
+      - 41
+      - {is_bidirectional: false}
+    - - 91
+      - 93
+      - {}
+    - - 93
+      - 91
+      - {}
+    - - 20
+      - 26
+      - {}
+    - - 26
+      - 20
+      - {}
+    - - 80
+      - 49
+      - {}
+    - - 49
+      - 80
+      - {}
+    - - 94
+      - 95
+      - {}
+    - - 95
+      - 94
+      - {}
+    - - 96
+      - 94
+      - {}
+    - - 94
+      - 96
+      - {}
+    - - 30
+      - 95
+      - {is_bidirectional: false}
+    - - 95
+      - 97
+      - {is_bidirectional: false}
+    - - 98
+      - 96
+      - {is_bidirectional: false}
+    - - 96
+      - 16
+      - {is_bidirectional: false}
+    - - 99
+      - 100
+      - {is_bidirectional: false}
+    - - 100
+      - 2
+      - {is_bidirectional: false}
+    - - 2
+      - 101
+      - {is_bidirectional: false}
+    - - 101
+      - 99
+      - {is_bidirectional: false}
+    - - 40
+      - 101
+      - {is_bidirectional: false}
+    - - 101
+      - 52
+      - {is_bidirectional: false}
+    - - 52
+      - 77
+      - {is_bidirectional: false}
+    - - 77
+      - 102
+      - {is_bidirectional: false}
+    - - 102
+      - 103
+      - {is_bidirectional: false}
+    - - 78
+      - 51
+      - {is_bidirectional: false}
+    - - 51
+      - 99
+      - {is_bidirectional: false}
+    - - 17
+      - 103
+      - {is_bidirectional: false}
+    - - 103
+      - 18
+      - {is_bidirectional: false}
+    - - 28
+      - 102
+      - {is_bidirectional: false}
+    - - 102
+      - 29
+      - {is_bidirectional: false}
+    - - 104
+      - 105
+      - {}
+    - - 105
+      - 104
+      - {}
+    - - 28
+      - 105
+      - {is_bidirectional: false}
+    - - 105
+      - 78
+      - {is_bidirectional: false}
+    - - 18
+      - 28
+      - {is_bidirectional: false}
+    - - 106
+      - 107
+      - {is_bidirectional: false}
+    - - 108
+      - 109
+      - {is_bidirectional: false}
+    - - 109
+      - 110
+      - {is_bidirectional: false}
+    - - 110
+      - 111
+      - {is_bidirectional: false}
+    - - 16
+      - 30
+      - {is_bidirectional: false}
+    - - 30
+      - 74
+      - {is_bidirectional: false}
+    - - 74
+      - 56
+      - {is_bidirectional: false}
+    - - 39
+      - 4
+      - {is_bidirectional: false}
+    - - 107
+      - 112
+      - {is_bidirectional: false}
+    - - 112
+      - 108
+      - {is_bidirectional: false}
+    - - 56
+      - 113
+      - {is_bidirectional: false}
+    - - 113
+      - 39
+      - {is_bidirectional: false}
+    - - 114
+      - 113
+      - {}
+    - - 113
+      - 114
+      - {}
+    - - 113
+      - 112
+      - {}
+    - - 112
+      - 113
+      - {}
+    - - 38
+      - 5
+      - {}
+    - - 5
+      - 38
+      - {}
+    - - 5
+      - 115
+      - {}
+    - - 115
+      - 5
+      - {}
+    - - 115
+      - 116
+      - {}
+    - - 116
+      - 115
+      - {}
+    - - 7
+      - 36
+      - {is_bidirectional: false}
+    - - 37
+      - 6
+      - {is_bidirectional: false}
+    - - 97
+      - 117
+      - {is_bidirectional: false}
+    - - 117
+      - 31
+      - {is_bidirectional: false}
+    - - 15
+      - 118
+      - {is_bidirectional: false}
+    - - 118
+      - 98
+      - {is_bidirectional: false}
+    - - 60
+      - 72
+      - {is_bidirectional: false}
+    - - 36
+      - 119
+      - {is_bidirectional: false}
+    - - 119
+      - 60
+      - {is_bidirectional: false}
+    - - 60
+      - 31
+      - {is_bidirectional: false}
+    - - 117
+      - 72
+      - {is_bidirectional: false}
+    - - 72
+      - 59
+      - {is_bidirectional: false}
+    - - 31
+      - 15
+      - {is_bidirectional: false}
+    - - 118
+      - 117
+      - {is_bidirectional: false}
+    - - 59
+      - 120
+      - {is_bidirectional: false}
+    - - 120
+      - 37
+      - {is_bidirectional: false}
+    - - 120
+      - 119
+      - {is_bidirectional: false}
+    - - 32
+      - 14
+      - {}
+    - - 14
+      - 32
+      - {}
+    - - 7
+      - 121
+      - {is_bidirectional: false}
+    - - 121
+      - 8
+      - {is_bidirectional: false}
+    - - 36
+      - 122
+      - {is_bidirectional: false}
+    - - 122
+      - 35
+      - {is_bidirectional: false}
+    - - 32
+      - 123
+      - {is_bidirectional: false}
+    - - 123
+      - 124
+      - {is_bidirectional: false}
+    - - 124
+      - 125
+      - {is_bidirectional: false}
+    - - 13
+      - 126
+      - {is_bidirectional: false}
+    - - 126
+      - 127
+      - {is_bidirectional: false}
+    - - 127
+      - 14
+      - {is_bidirectional: false}
+    - - 8
+      - 35
+      - {is_bidirectional: false}
+    - - 35
+      - 62
+      - {is_bidirectional: false}
+    - - 62
+      - 71
+      - {is_bidirectional: false}
+    - - 71
+      - 123
+      - {is_bidirectional: false}
+    - - 123
+      - 127
+      - {is_bidirectional: false}
+    - - 32
+      - 61
+      - {is_bidirectional: false}
+    - - 61
+      - 122
+      - {is_bidirectional: false}
+    - - 122
+      - 121
+      - {is_bidirectional: false}
+    - - 10
+      - 128
+      - {is_bidirectional: false}
+    - - 128
+      - 129
+      - {is_bidirectional: false}
+    - - 130
+      - 131
+      - {is_bidirectional: false}
+    - - 131
+      - 33
+      - {is_bidirectional: false}
+    - - 65
+      - 66
+      - {is_bidirectional: false}
+    - - 69
+      - 132
+      - {is_bidirectional: false}
+    - - 132
+      - 70
+      - {is_bidirectional: false}
+    - - 128
+      - 131
+      - {is_bidirectional: false}
+    - - 131
+      - 66
+      - {is_bidirectional: false}
+    - - 66
+      - 69
+      - {is_bidirectional: false}
+    - - 69
+      - 133
+      - {is_bidirectional: false}
+    - - 133
+      - 134
+      - {is_bidirectional: false}
+    - - 12
+      - 135
+      - {is_bidirectional: false}
+    - - 135
+      - 132
+      - {is_bidirectional: false}
+    - - 132
+      - 65
+      - {is_bidirectional: false}
+    - - 65
+      - 33
+      - {is_bidirectional: false}
+    - - 33
+      - 10
+      - {is_bidirectional: false}
+    - - 125
+      - 136
+      - {is_bidirectional: false}
+    - - 136
+      - 135
+      - {is_bidirectional: false}
+    - - 129
+      - 137
+      - {is_bidirectional: false}
+    - - 137
+      - 138
+      - {is_bidirectional: false}
+    - - 138
+      - 11
+      - {is_bidirectional: false}
+    - - 67
+      - 137
+      - {is_bidirectional: false}
+    - - 138
+      - 68
+      - {is_bidirectional: false}
+    - - 139
+      - 68
+      - {is_bidirectional: false}
+    - - 68
+      - 67
+      - {is_bidirectional: false}
+    - - 67
+      - 130
+      - {is_bidirectional: false}
+    - - 90
+      - 140
+      - {is_bidirectional: false}
+    - - 140
+      - 100
+      - {is_bidirectional: false}
+    - - 99
+      - 141
+      - {is_bidirectional: false}
+    - - 141
+      - 92
+      - {is_bidirectional: false}
+    - - 140
+      - 141
+      - {is_bidirectional: false}
+    - - 141
+      - 47
+      - {is_bidirectional: false}
+    - - 47
+      - 83
+      - {is_bidirectional: false}
+    - - 83
+      - 27
+      - {is_bidirectional: false}
+    - - 27
+      - 19
+      - {is_bidirectional: false}
+    - - 19
+      - 142
+      - {is_bidirectional: false}
+    - - 142
+      - 20
+      - {is_bidirectional: false}
+    - - 26
+      - 143
+      - {is_bidirectional: false}
+    - - 143
+      - 84
+      - {is_bidirectional: false}
+    - - 84
+      - 46
+      - {is_bidirectional: false}
+    - - 46
+      - 92
+      - {is_bidirectional: false}
+    - - 92
+      - 90
+      - {is_bidirectional: false}
+    - - 143
+      - 27
+      - {is_bidirectional: false}
+    - - 142
+      - 143
+      - {is_bidirectional: false}
+    - - 135
+      - 133
+      - {is_bidirectional: false}
+    - - 133
+      - 144
+      - {is_bidirectional: false}
+    - - 144
+      - 145
+      - {is_bidirectional: false}
+    - - 145
+      - 146
+      - {is_bidirectional: false}
+    - - 146
+      - 139
+      - {is_bidirectional: false}
+    - - 11
+      - 146
+      - {}
+    - - 146
+      - 11
+      - {}
+    - - 147
+      - 11
+      - {}
+    - - 11
+      - 147
+      - {}
+    - - 148
+      - 149
+      - {}
+    - - 149
+      - 148
+      - {}
+    - - 150
+      - 151
+      - {}
+    - - 151
+      - 150
+      - {}
+    - - 152
+      - 21
+      - {}
+    - - 21
+      - 152
+      - {}
+    - - 151
+      - 0
+      - {}
+    - - 0
+      - 151
+      - {}
+    - - 89
+      - 153
+      - {}
+    - - 153
+      - 89
+      - {}
+    - - 153
+      - 154
+      - {}
+    - - 154
+      - 153
+      - {}
+    - - 14
+      - 155
+      - {}
+    - - 155
+      - 14
+      - {}
+    - - 155
+      - 156
+      - {}
+    - - 156
+      - 155
+      - {}
+    - - 156
+      - 157
+      - {}
+    - - 157
+      - 156
+      - {}
+    - - 155
+      - 158
+      - {}
+    - - 158
+      - 155
+      - {}
+    - - 158
+      - 159
+      - {}
+    - - 159
+      - 158
+      - {}
+    vertices:
+    - - 27.24046472743926
+      - -28.194444978933515
+      - {is_passthrough_point: false, name: ''}
+    - - 26.043527306129555
+      - -29.331523387390135
+      - {is_passthrough_point: false, name: ''}
+    - - 26.17732980544821
+      - -120.06746635320536
+      - {is_passthrough_point: false, name: ''}
+    - - 26.151346379990684
+      - -141.13492484846702
+      - {is_holding_point: true, name: ''}
+    - - 26.30882536512344
+      - -160.1326942299485
+      - {is_passthrough_point: true, name: ''}
+    - - 25.589788703630635
+      - -174.60011982324698
+      - {is_passthrough_point: true, name: ''}
+    - - 25.827767740531325
+      - -201.7215950322359
+      - {is_passthrough_point: false, name: ''}
+    - - 25.824610875756115
+      - -206.3421523022644
+      - {name: ''}
+    - - 25.715577623135285
+      - -225.95344621102097
+      - {name: ''}
+    - - 25.93352271050097
+      - -248.8875831314414
+      - {name: ''}
+    - - 25.824610875756115
+      - -274.4365754287462
+      - {name: ''}
+    - - 102.53593924193449
+      - -299.9434357230895
+      - {name: ''}
+    - - 102.1787278508315
+      - -274.7937868198492
+      - {name: ''}
+    - - 102.34422041577825
+      - -250.7732027452515
+      - {name: ''}
+    - - 102.79844468978105
+      - -223.19446781536053
+      - {name: ''}
+    - - 103.18941025040363
+      - -203.68030820737977
+      - {name: ''}
+    - - 102.48749350942256
+      - -160.98164801872892
+      - {name: ''}
+    - - 103.03095992226312
+      - -140.60469298410715
+      - {name: ''}
+    - - 103.18455353536484
+      - -118.63728519215778
+      - {name: ''}
+    - - 103.30269312868339
+      - -94.9680844506165
+      - {name: ''}
+    - - 103.46345039646732
+      - -72.88690810888347
+      - {name: ''}
+    - - 103.00619067556528
+      - -35.063297058293685
+      - {name: ''}
+    - - 28.563676739757497
+      - -35.29532661927186
+      - {name: ''}
+    - - 28.58796031495144
+      - -29.323145553948223
+      - {name: ''}
+    - - 26.034420965431824
+      - -37.331625817160386
+      - {is_passthrough_point: false, name: ''}
+    - - 101.74599454087534
+      - -36.32349319298363
+      - {name: ''}
+    - - 102.0960422772961
+      - -72.88957930215481
+      - {name: ''}
+    - - 102.04249699399345
+      - -94.84994485729794
+      - {name: ''}
+    - - 101.73725245380552
+      - -118.63728519215778
+      - {name: ''}
+    - - 101.69220642182074
+      - -140.40216796698962
+      - {name: ''}
+    - - 101.26250855876384
+      - -161.1931579586682
+      - {name: ''}
+    - - 101.82430907087583
+      - -203.84446517569083
+      - {name: ''}
+    - - 101.39363986481116
+      - -223.70114461178224
+      - {name: ''}
+    - - 27.43327631447921
+      - -274.5592074834757
+      - {name: ''}
+    - - 27.793765988233368
+      - -248.897175143643
+      - {name: ''}
+    - - 27.793765988233368
+      - -226.1185745223398
+      - {name: ''}
+    - - 27.645757597426254
+      - -204.92702695783703
+      - {name: ''}
+    - - 27.620988350728428
+      - -201.8231003765466
+      - {name: ''}
+    - - 27.485971672650077
+      - -174.60011982324698
+      - {name: ''}
+    - - 27.997019512606716
+      - -160.21513696773195
+      - {name: ''}
+    - - 28.08201202578553
+      - -141.13116089431196
+      - {name: ''}
+    - - 28.152555811723953
+      - -55.82053288045267
+      - {is_passthrough_point: false, name: ''}
+    - - 25.91968107264042
+      - -55.809362435863456
+      - {is_passthrough_point: true, name: ''}
+    - - 60.25252818910015
+      - -55.809362435863456
+      - {name: ''}
+    - - 60.57282854590833
+      - -73.68037392834572
+      - {name: ''}
+    - - 61.405512339308814
+      - -75.47383737429477
+      - {name: ''}
+    - - 61.24815477205202
+      - -94.64741984018042
+      - {name: ''}
+    - - 61.2105152305014
+      - -95.81533838913334
+      - {name: ''}
+    - - 60.957116123352556
+      - -97.18808889484724
+      - {name: ''}
+    - - 60.76806849046767
+      - -106.38731426769465
+      - {name: ''}
+    - - 61.34541049070379
+      - -108.8143361904538
+      - {name: ''}
+    - - 61.14652800986535
+      - -117.87089555903678
+      - {name: ''}
+    - - 60.8193068341269
+      - -120.1856059465239
+      - {name: ''}
+    - - 60.90114248253051
+      - -139.2427486693546
+      - {name: ''}
+    - - 60.264305723069214
+      - -141.15325894773844
+      - {name: ''}
+    - - 60.14495195099096
+      - -142.2677536312647
+      - {name: ''}
+    - - 60.26382005156533
+      - -160.4471665287101
+      - {is_passthrough_point: false, name: ''}
+    - - 60.30352369700744
+      - -179.7811420087518
+      - {name: ''}
+    - - 59.93708454733076
+      - -180.88033803990584
+      - {name: ''}
+    - - 59.86374815024504
+      - -201.6185112555376
+      - {name: ''}
+    - - 60.4465539548998
+      - -204.46964581905905
+      - {name: ''}
+    - - 60.252285353348206
+      - -223.95964326972185
+      - {name: ''}
+    - - 59.53956242140583
+      - -226.53613059779974
+      - {name: ''}
+    - - 59.591529272320884
+      - -248.2055789221194
+      - {name: ''}
+    - - 59.073439195557995
+      - -249.75984915240804
+      - {name: ''}
+    - - 59.3157892759936
+      - -274.27836793635765
+      - {name: ''}
+    - - 59.25155921960561
+      - -276.7392654465124
+      - {name: ''}
+    - - 59.03664957913916
+      - -298.2604625442729
+      - {name: ''}
+    - - 60.58873428766036
+      - -298.360632291948
+      - {name: ''}
+    - - 60.927125907988035
+      - -276.56065975096084
+      - {name: ''}
+    - - 60.975935894127865
+      - -250.43286843890832
+      - {name: ''}
+    - - 61.15879121533829
+      - -226.5879760308388
+      - {name: ''}
+    - - 61.70844993985332
+      - -201.25389337400046
+      - {name: ''}
+    - - 61.56201998143381
+      - -181.42611139238986
+      - {name: ''}
+    - - 61.741475602117085
+      - -160.57295544821477
+      - {is_passthrough_point: false, name: ''}
+    - - 61.855001316148794
+      - -141.08660053383105
+      - {name: ''}
+    - - 62.15514630554599
+      - -139.52990194602302
+      - {name: ''}
+    - - 62.11107161656897
+      - -120.21632466914426
+      - {name: ''}
+    - - 62.66704407063441
+      - -117.90258562466488
+      - {name: ''}
+    - - 62.73406673816971
+      - -109.00071263006735
+      - {name: ''}
+    - - 63.56432217405081
+      - -106.26577497384895
+      - {name: ''}
+    - - 62.831686710449375
+      - -103.92168146037713
+      - {name: ''}
+    - - 62.58751536187423
+      - -97.32856937734424
+      - {name: ''}
+    - - 62.75519344858844
+      - -95.02417950931452
+      - {name: ''}
+    - - 62.64215340606062
+      - -93.29106074772244
+      - {name: ''}
+    - - 62.73406673816971
+      - -75.01002108809035
+      - {name: ''}
+    - - 62.34334401329909
+      - -73.64261296891914
+      - {name: ''}
+    - - 62.294534027159244
+      - -54.30317368445882
+      - {name: ''}
+    - - 62.34334401329909
+      - -35.403267111008965
+      - {name: ''}
+    - - 25.877913323306828
+      - -80.51207213765916
+      - {is_holding_point: false, name: ''}
+    - - 25.92903024909009
+      - -94.30550710144962
+      - {is_passthrough_point: false, name: ''}
+    - - 26.708168759187917
+      - -80.66906545128805
+      - {is_passthrough_point: false, name: ''}
+    - - 27.93436788860633
+      - -94.40822662452003
+      - {name: ''}
+    - - 28.133857458824615
+      - -80.71471857265266
+      - {name: ''}
+    - - 101.8332939936976
+      - -180.3114952909876
+      - {name: ''}
+    - - 101.20410656042239
+      - -180.3272796148637
+      - {name: ''}
+    - - 102.72972217198217
+      - -180.26438515511137
+      - {name: ''}
+    - - 101.42787970583461
+      - -181.89830551203616
+      - {name: ''}
+    - - 102.72098008491236
+      - -181.89964110867183
+      - {name: ''}
+    - - 28.13045775829746
+      - -118.03056006593698
+      - {name: ''}
+    - - 26.150132201230985
+      - -118.06577124996821
+      - {is_passthrough_point: false, name: ''}
+    - - 28.111637987522148
+      - -120.12283290464755
+      - {name: ''}
+    - - 101.71952544391394
+      - -120.81904300545804
+      - {name: ''}
+    - - 103.01129022635601
+      - -120.91362753083847
+      - {name: ''}
+    - - 63.89470021456447
+      - -120.40185118362601
+      - {name: ''}
+    - - 64.03639487582114
+      - -117.90914218996724
+      - {name: ''}
+    - - 26.249330605898265
+      - -161.8984744001764
+      - {is_passthrough_point: true, name: ''}
+    - - 27.953430495133578
+      - -161.82428807795893
+      - {name: ''}
+    - - 60.36872509640319
+      - -161.82428807795893
+      - {is_passthrough_point: false, name: 1}
+    - - 61.66534659388405
+      - -162.23188788758932
+      - {is_passthrough_point: false, name: ''}
+    - - 101.26250855876384
+      - -162.77790407582526
+      - {name: ''}
+    - - 102.55038796917488
+      - -163.18234702068045
+      - {name: ''}
+    - - 51.830984311838925
+      - -161.78652711853235
+      - {name: ''}
+    - - 51.85721057304839
+      - -160.29369433348435
+      - {name: ''}
+    - - 51.80487946850543
+      - -157.36023845005542
+      - {is_parking_spot: true, name: ''}
+    - - 19.269381170025778
+      - -174.52981887306052
+      - {is_passthrough_point: true, name: ''}
+    - - 18.356440160609296
+      - -175.19701010151422
+      - {is_parking_spot: true, name: ''}
+    - - 101.76190028262738
+      - -201.72839443329022
+      - {name: ''}
+    - - 103.1650052573337
+      - -201.68832653422018
+      - {name: ''}
+    - - 44.447806109870925
+      - -205.18856106267586
+      - {name: ''}
+    - - 44.50620810821237
+      - -201.76311994581755
+      - {name: ''}
+    - - 25.632770631723922
+      - -224.0689193580946
+      - {name: ''}
+    - - 27.841483213489475
+      - -224.11481531521116
+      - {name: ''}
+    - - 101.41889478301286
+      - -226.7376842719095
+      - {name: ''}
+    - - 101.43346492812923
+      - -247.89754177078416
+      - {name: ''}
+    - - 101.10345114124348
+      - -250.26676878458173
+      - {name: ''}
+    - - 102.65347174587319
+      - -248.08816783605664
+      - {name: ''}
+    - - 102.75327723992032
+      - -226.69166689691698
+      - {name: ''}
+    - - 25.81562595293435
+      - -275.92479433450734
+      - {name: ''}
+    - - 25.824610875756115
+      - -299.2774586733955
+      - {name: ''}
+    - - 27.2170310773771
+      - -297.91454301563516
+      - {name: ''}
+    - - 27.45962399356464
+      - -276.1001217474076
+      - {name: ''}
+    - - 60.94206030673231
+      - -274.2997374825283
+      - {name: ''}
+    - - 100.62081508426375
+      - -277.4702010598502
+      - {name: ''}
+    - - 102.2509714870335
+      - -277.55252237975765
+      - {name: ''}
+    - - 100.60393799950397
+      - -274.621980525352
+      - {name: ''}
+    - - 100.92265992392453
+      - -272.20746464381773
+      - {name: ''}
+    - - 58.83643150166506
+      - -299.81254725279416
+      - {name: ''}
+    - - 60.78895236513446
+      - -299.81254725279416
+      - {name: ''}
+    - - 100.2302137772691
+      - -298.49479904489453
+      - {name: ''}
+    - - 25.79802036091874
+      - -95.98240938646772
+      - {is_passthrough_point: false, name: ''}
+    - - 28.156198348003045
+      - -95.8251732370869
+      - {name: ''}
+    - - 103.3600023661411
+      - -93.50305635916561
+      - {name: ''}
+    - - 102.144609427684
+      - -93.3750819178935
+      - {name: ''}
+    - - 101.15359672401897
+      - -288.83491425061794
+      - {name: ''}
+    - - 101.29565563890358
+      - -295.08538508766424
+      - {name: ''}
+    - - 101.15359672401897
+      - -297.96213882301527
+      - {name: ''}
+    - - 101.35915718803575
+      - -305.18140289242416
+      - {is_parking_spot: true, name: ''}
+    - - 27.096098872911238
+      - -304.0083847926805
+      - {is_parking_spot: true, name: ''}
+    - - 25.93327987474903
+      - -299.8671852969805
+      - {name: ''}
+    - - 25.878277576934735
+      - -21.267190901231892
+      - {is_parking_spot: true, name: ''}
+    - - 29.201606260102512
+      - -21.439847120860865
+      - {is_passthrough_point: false, name: ''}
+    - - 102.39375890917391
+      - -29.217997673358425
+      - {is_parking_spot: true, name: ''}
+    - - 17.210619665082852
+      - -81.0640378018176
+      - {name: ''}
+    - - 17.276792407486358
+      - -71.07256078826764
+      - {is_parking_spot: true, name: ''}
+    - - 109.52159531797756
+      - -222.33361507473506
+      - {name: ''}
+    - - 109.90466871666207
+      - -207.91961334686326
+      - {name: ''}
+    - - 115.94702931429623
+      - -206.50254531642042
+      - {is_parking_spot: false, name: ''}
+    - - 109.45020160690733
+      - -224.3890982970268
+      - {name: ''}
+    - - 116.85608495168168
+      - -224.92382262279756
+      - {is_parking_spot: true, name: ''}
+lifts: {}

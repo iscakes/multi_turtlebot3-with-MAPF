@@ -1,0 +1,4 @@
+---
+geometry_msgs/Point[] points
+bool success
+uint8 error_code

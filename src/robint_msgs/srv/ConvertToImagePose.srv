@@ -1,0 +1,7 @@
+string map_uuid
+geometry_msgs/Pose pose
+---
+string map_uuid
+geometry_msgs/Pose2D pose2d
+uint8 error_code
+bool success

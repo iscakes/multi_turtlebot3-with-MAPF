@@ -1,0 +1,13 @@
+string loc_uuid
+---
+string current_map_uuid
+string current_floor_id
+string target_map_uuid
+string target_floor_uuid
+string target_loc_uuid
+string enter_elevator_loc_uuid
+string elevator_interior_loc_uuid
+string elevator_wait_loc_uuid
+string exit_elevator_loc_uuid
+
+bool result

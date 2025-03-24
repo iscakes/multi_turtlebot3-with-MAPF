@@ -1,0 +1,4 @@
+string gate_uuid
+string gate_name
+Location enter_loc
+Location exit_loc

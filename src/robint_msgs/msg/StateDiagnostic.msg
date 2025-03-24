@@ -1,0 +1,2 @@
+string hardware_name
+bool is_ok

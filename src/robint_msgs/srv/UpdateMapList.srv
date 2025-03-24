@@ -1,0 +1,4 @@
+string[] map_uuid_list
+---
+bool success
+uint8 error_code

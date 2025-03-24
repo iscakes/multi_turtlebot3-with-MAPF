@@ -1,0 +1,5 @@
+string source_map_uuid
+string target_map_uuid
+---
+bool success
+uint8 error_code

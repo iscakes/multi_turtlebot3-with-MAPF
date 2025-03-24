@@ -1,0 +1,9 @@
+time timestamp
+string map_name
+string map_uuid
+string location_uuid
+string type_name
+string group_uuid
+string location_name
+geometry_msgs/Pose2D image_pose
+geometry_msgs/PoseStamped pose

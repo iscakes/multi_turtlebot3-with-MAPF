@@ -1,0 +1,5 @@
+float32 max_vel
+---
+bool success
+uint8 error_code
+string message

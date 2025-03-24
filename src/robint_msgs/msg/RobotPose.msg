@@ -1,0 +1,2 @@
+geometry_msgs/Pose2D image_pose
+geometry_msgs/PoseStamped pose

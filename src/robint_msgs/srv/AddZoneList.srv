@@ -1,0 +1,11 @@
+string map_name
+uint8 zone_mode
+uint8 WORLD=0
+uint8 IMAGE=1
+string map_uuid
+Zone[] zone_list
+---
+Zone[] zone_list
+bool success
+uint8 error_code
+string message

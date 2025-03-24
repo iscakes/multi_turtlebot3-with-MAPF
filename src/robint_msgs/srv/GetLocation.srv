@@ -1,0 +1,7 @@
+string map_name
+string location_name
+string location_uuid
+---
+Location location
+bool success
+uint8 error_code

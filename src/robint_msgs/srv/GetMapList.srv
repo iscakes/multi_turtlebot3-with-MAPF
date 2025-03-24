@@ -1,0 +1,4 @@
+---
+MapData[] map_list
+bool success
+string message

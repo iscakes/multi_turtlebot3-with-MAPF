@@ -1,0 +1,8 @@
+string task_uuid
+string task_name
+string start_location_uuid
+string end_location_uuid
+---
+CruiseTaskInfo task_info
+bool success
+uint8 error_code

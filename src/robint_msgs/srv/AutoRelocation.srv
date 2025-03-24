@@ -1,0 +1,13 @@
+bool limited_location
+float32 linear_search_window
+float32 angular_search_window
+geometry_msgs/PoseStamped pose
+uint8 relocation_mode
+uint8 DEFAULT=0
+uint8 FIXED_POSE=1
+uint8 FIXED_SEARCH=2
+uint8 FIXED_POSE_AND_SEARCH=3
+---
+bool success
+uint8 error_code
+string message

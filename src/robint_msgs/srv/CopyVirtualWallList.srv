@@ -1,0 +1,6 @@
+string source_map_uuid
+string target_map_uuid
+int32 floor_index
+---
+bool success
+uint8 error_code

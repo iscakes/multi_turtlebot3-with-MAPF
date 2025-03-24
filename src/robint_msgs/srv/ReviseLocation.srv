@@ -1,0 +1,10 @@
+string map_name
+string original_location_name
+uint8 NAME=0
+uint8 MAP=1
+uint8 TYPE=2
+uint8 POSE=3
+uint8 revise_type
+Location location
+---
+bool success

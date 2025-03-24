@@ -1,0 +1,3 @@
+RobotIsolatedZone[] robot_isolated_zone_list
+string self_isolated_zone_uuid
+geometry_msgs/Pose2D robot_pose

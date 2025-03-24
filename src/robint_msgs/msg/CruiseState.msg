@@ -1,0 +1,11 @@
+TaskStateHeader header
+string task_name
+string task_uuid
+string current_goal_name
+string current_goal_group_uuid
+string state
+string feedback
+uint8 r_state
+uint8 r_feedback
+uint8 percent
+bool reached

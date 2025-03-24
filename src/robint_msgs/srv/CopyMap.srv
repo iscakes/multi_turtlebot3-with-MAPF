@@ -1,0 +1,8 @@
+string source_map_uuid
+string target_map_name
+string target_floor_id
+string target_building_id
+---
+string target_map_uuid
+bool success
+uint8 error_code

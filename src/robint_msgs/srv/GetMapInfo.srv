@@ -1,0 +1,6 @@
+string map_uuid
+---
+MapInfo map_info
+bool success
+uint8 error_code
+string message

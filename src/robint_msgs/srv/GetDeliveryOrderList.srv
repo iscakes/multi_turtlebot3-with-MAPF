@@ -1,0 +1,6 @@
+string[] uuid_list
+---
+string[] uuid_list
+bool success
+uint8 error_code
+string message

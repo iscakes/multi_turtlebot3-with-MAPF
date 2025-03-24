@@ -1,0 +1,6 @@
+PathWithPoint contour
+---
+geometry_msgs/Point goal_point
+bool success
+uint8 error_code
+string message

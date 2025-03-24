@@ -1,0 +1,7 @@
+---
+string chassis_hardware_version
+string driver_hardware_version
+string chassis_software_version
+string driver_software_version
+bool success
+uint8 error_code

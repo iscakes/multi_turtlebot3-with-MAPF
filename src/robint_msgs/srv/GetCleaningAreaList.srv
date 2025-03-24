@@ -1,0 +1,9 @@
+string map_uuid
+uint8 coordinate_mode
+uint8 IMAGE=0
+uint8 WORLD=1
+---
+CleaningArea[] area_list
+bool success
+uint8 error_code
+string message

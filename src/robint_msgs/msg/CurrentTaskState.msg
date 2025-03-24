@@ -1,0 +1,6 @@
+string activated_task_name
+NavigationState navigation_state
+FollowingState following_state
+PatrolState patrol_state
+AutoChargeState auto_charge_state
+UndockState undock_state

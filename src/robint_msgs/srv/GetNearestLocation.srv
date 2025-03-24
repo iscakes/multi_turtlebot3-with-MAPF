@@ -1,0 +1,9 @@
+string map_name
+string location_name
+string location_uuid
+geometry_msgs/Pose pose
+---
+Location location
+geometry_msgs/Pose robot_pose
+bool success
+uint8 error_code

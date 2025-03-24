@@ -1,0 +1,4 @@
+---
+geometry_msgs/PoseStamped dock_pose
+bool success
+uint8 error_code

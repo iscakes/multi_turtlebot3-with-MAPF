@@ -1,0 +1,6 @@
+string topic
+---
+string base64
+string format  # "png" or "jpeg"
+uint8 error_code
+bool success

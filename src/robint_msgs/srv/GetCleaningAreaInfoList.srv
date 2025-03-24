@@ -1,0 +1,6 @@
+string map_uuid
+---
+CleaningAreaInfo[] area_info_list
+bool success
+uint8 error_code
+string message

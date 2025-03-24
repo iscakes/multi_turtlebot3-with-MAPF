@@ -1,0 +1,9 @@
+string zone_uuid
+uint8 zone_mode
+uint8 IMAGE=0
+uint8 WORLD=1
+---
+Zone zone
+bool success
+uint8 error_code
+string message

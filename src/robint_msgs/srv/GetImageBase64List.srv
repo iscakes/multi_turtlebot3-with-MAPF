@@ -1,0 +1,5 @@
+string topic
+---
+ImageInfo[] image_list
+uint8 error_code
+bool success

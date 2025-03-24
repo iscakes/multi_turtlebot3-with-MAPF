@@ -1,0 +1,3 @@
+string map_uuid
+geometry_msgs/Pose2D image_pose
+bool normal

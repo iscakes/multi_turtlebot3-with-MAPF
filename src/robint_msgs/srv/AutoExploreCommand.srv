@@ -1,0 +1,9 @@
+uint8 command       # 'Start', 'Pause', 'Continue', 'Stop'
+uint8 START=0
+uint8 PAUSE=1
+uint8 CONTINUE=2
+uint8 STOP=3
+---
+bool success
+uint8 error_code
+string message
