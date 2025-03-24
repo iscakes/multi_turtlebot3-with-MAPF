@@ -1,0 +1,8 @@
+prefix=/home/wlm/cbs-new/devel
+
+Name: roadrun_planner
+Description: Description of roadrun_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/wlm/cbs-new/devel
+
+Name: mapf_ros
+Description: Description of mapf_ros
+Version: 0.0.0
+Cflags: -I/home/wlm/cbs-new/src/mapf_ros-main/src/mapf_ros/include
+Libs: -L${prefix}/lib -lcbs_planner_ros -lecbs_planner_ros -lsipp_planner_ros
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs nav_msgs mapf_msgs costmap_2d tf2_geometry_msgs tf2_ros move_base_msgs actionlib roslib pluginlib

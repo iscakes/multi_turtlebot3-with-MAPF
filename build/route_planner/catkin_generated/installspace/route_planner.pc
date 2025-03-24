@@ -1,0 +1,8 @@
+prefix=/home/wlm/cbs-new/install
+
+Name: route_planner
+Description: Description of route_planner
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lroute_planner
+Requires: roscpp pluginlib nav_core costmap_2d tf geometry_msgs nav_msgs

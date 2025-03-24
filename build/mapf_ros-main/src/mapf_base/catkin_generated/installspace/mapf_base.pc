@@ -1,0 +1,8 @@
+prefix=/home/wlm/cbs-new/install
+
+Name: mapf_base
+Description: Description of mapf_base
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs nav_msgs mapf_msgs costmap_2d pluginlib mapf_ros

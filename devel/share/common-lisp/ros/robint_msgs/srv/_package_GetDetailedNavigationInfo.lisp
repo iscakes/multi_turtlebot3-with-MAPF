@@ -1,0 +1,24 @@
+(cl:in-package robint_msgs-srv)
+(cl:export '(LOC_UUID-VAL
+          LOC_UUID
+          CURRENT_MAP_UUID-VAL
+          CURRENT_MAP_UUID
+          CURRENT_FLOOR_ID-VAL
+          CURRENT_FLOOR_ID
+          TARGET_MAP_UUID-VAL
+          TARGET_MAP_UUID
+          TARGET_FLOOR_UUID-VAL
+          TARGET_FLOOR_UUID
+          TARGET_LOC_UUID-VAL
+          TARGET_LOC_UUID
+          ENTER_ELEVATOR_LOC_UUID-VAL
+          ENTER_ELEVATOR_LOC_UUID
+          ELEVATOR_INTERIOR_LOC_UUID-VAL
+          ELEVATOR_INTERIOR_LOC_UUID
+          ELEVATOR_WAIT_LOC_UUID-VAL
+          ELEVATOR_WAIT_LOC_UUID
+          EXIT_ELEVATOR_LOC_UUID-VAL
+          EXIT_ELEVATOR_LOC_UUID
+          RESULT-VAL
+          RESULT
+))

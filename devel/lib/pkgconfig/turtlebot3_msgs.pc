@@ -1,0 +1,8 @@
+prefix=/home/wlm/cbs-new/devel
+
+Name: turtlebot3_msgs
+Description: Description of turtlebot3_msgs
+Version: 1.0.1
+Cflags: -I/home/wlm/cbs-new/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

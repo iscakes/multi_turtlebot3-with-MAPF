@@ -1,0 +1,8 @@
+prefix=/home/wlm/cbs-new/install
+
+Name: coverage_path_planner
+Description: Description of coverage_path_planner
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime costmap_2d geometry_msgs nav_msgs map_msgs roscpp tf message_generation
