@@ -1,0 +1,1276 @@
+building_name: RG371
+doors: {}
+levels:
+  L0:
+    lanes:
+    - - 0
+      - 1
+      - {is_bidirectional: false}
+    - - 2
+      - 3
+      - {is_bidirectional: false}
+    - - 3
+      - 4
+      - {is_bidirectional: false}
+    - - 4
+      - 5
+      - {is_bidirectional: false}
+    - - 5
+      - 6
+      - {is_bidirectional: false}
+    - - 6
+      - 7
+      - {is_bidirectional: false}
+    - - 8
+      - 9
+      - {is_bidirectional: false}
+    - - 9
+      - 10
+      - {is_bidirectional: false}
+    - - 11
+      - 12
+      - {is_bidirectional: false}
+    - - 12
+      - 13
+      - {is_bidirectional: false}
+    - - 14
+      - 15
+      - {is_bidirectional: false}
+    - - 16
+      - 17
+      - {is_bidirectional: false}
+    - - 18
+      - 19
+      - {is_bidirectional: false}
+    - - 20
+      - 21
+      - {is_bidirectional: false}
+    - - 21
+      - 22
+      - {is_bidirectional: false}
+    - - 22
+      - 23
+      - {is_bidirectional: false}
+    - - 23
+      - 0
+      - {is_bidirectional: false}
+    - - 24
+      - 25
+      - {is_bidirectional: false}
+    - - 25
+      - 26
+      - {is_bidirectional: false}
+    - - 27
+      - 28
+      - {is_bidirectional: false}
+    - - 29
+      - 30
+      - {is_bidirectional: false}
+    - - 31
+      - 32
+      - {is_bidirectional: false}
+    - - 33
+      - 34
+      - {is_bidirectional: false}
+    - - 34
+      - 35
+      - {is_bidirectional: false}
+    - - 36
+      - 37
+      - {is_bidirectional: false}
+    - - 37
+      - 38
+      - {is_bidirectional: false}
+    - - 38
+      - 39
+      - {is_bidirectional: false}
+    - - 39
+      - 40
+      - {is_bidirectional: false}
+    - - 41
+      - 22
+      - {is_bidirectional: false}
+    - - 42
+      - 43
+      - {is_bidirectional: false}
+    - - 43
+      - 44
+      - {is_bidirectional: false}
+    - - 44
+      - 45
+      - {is_bidirectional: false}
+    - - 45
+      - 46
+      - {is_bidirectional: false}
+    - - 46
+      - 47
+      - {is_bidirectional: false}
+    - - 47
+      - 48
+      - {is_bidirectional: false}
+    - - 48
+      - 49
+      - {is_bidirectional: false}
+    - - 49
+      - 50
+      - {is_bidirectional: false}
+    - - 50
+      - 51
+      - {is_bidirectional: false}
+    - - 51
+      - 52
+      - {is_bidirectional: false}
+    - - 52
+      - 53
+      - {is_bidirectional: false}
+    - - 53
+      - 54
+      - {is_bidirectional: false}
+    - - 54
+      - 55
+      - {is_bidirectional: false}
+    - - 55
+      - 56
+      - {is_bidirectional: false}
+    - - 56
+      - 57
+      - {is_bidirectional: false}
+    - - 57
+      - 58
+      - {is_bidirectional: false}
+    - - 58
+      - 59
+      - {is_bidirectional: false}
+    - - 59
+      - 60
+      - {is_bidirectional: false}
+    - - 60
+      - 61
+      - {}
+    - - 61
+      - 60
+      - {}
+    - - 61
+      - 62
+      - {is_bidirectional: false}
+    - - 62
+      - 63
+      - {is_bidirectional: false}
+    - - 63
+      - 64
+      - {is_bidirectional: false}
+    - - 64
+      - 65
+      - {is_bidirectional: false}
+    - - 66
+      - 67
+      - {is_bidirectional: false}
+    - - 68
+      - 69
+      - {is_bidirectional: false}
+    - - 70
+      - 71
+      - {is_bidirectional: false}
+    - - 71
+      - 61
+      - {is_bidirectional: false}
+    - - 72
+      - 73
+      - {is_bidirectional: false}
+    - - 73
+      - 74
+      - {is_bidirectional: false}
+    - - 74
+      - 75
+      - {is_bidirectional: false}
+    - - 75
+      - 76
+      - {is_bidirectional: false}
+    - - 76
+      - 77
+      - {is_bidirectional: false}
+    - - 77
+      - 78
+      - {is_bidirectional: false}
+    - - 78
+      - 79
+      - {is_bidirectional: false}
+    - - 79
+      - 80
+      - {is_bidirectional: false}
+    - - 80
+      - 81
+      - {is_bidirectional: false}
+    - - 81
+      - 82
+      - {is_bidirectional: false}
+    - - 82
+      - 83
+      - {is_bidirectional: false}
+    - - 83
+      - 84
+      - {is_bidirectional: false}
+    - - 84
+      - 85
+      - {is_bidirectional: false}
+    - - 85
+      - 86
+      - {is_bidirectional: false}
+    - - 86
+      - 87
+      - {is_bidirectional: false}
+    - - 87
+      - 88
+      - {is_bidirectional: false}
+    - - 1
+      - 24
+      - {is_bidirectional: false}
+    - - 24
+      - 42
+      - {is_bidirectional: false}
+    - - 89
+      - 90
+      - {is_bidirectional: false}
+    - - 42
+      - 89
+      - {is_bidirectional: false}
+    - - 89
+      - 91
+      - {}
+    - - 91
+      - 89
+      - {}
+    - - 92
+      - 93
+      - {is_bidirectional: false}
+    - - 93
+      - 41
+      - {is_bidirectional: false}
+    - - 91
+      - 93
+      - {}
+    - - 93
+      - 91
+      - {}
+    - - 20
+      - 26
+      - {}
+    - - 26
+      - 20
+      - {}
+    - - 80
+      - 49
+      - {}
+    - - 49
+      - 80
+      - {}
+    - - 94
+      - 95
+      - {}
+    - - 95
+      - 94
+      - {}
+    - - 96
+      - 94
+      - {}
+    - - 94
+      - 96
+      - {}
+    - - 30
+      - 95
+      - {is_bidirectional: false}
+    - - 95
+      - 97
+      - {is_bidirectional: false}
+    - - 98
+      - 96
+      - {is_bidirectional: false}
+    - - 96
+      - 16
+      - {is_bidirectional: false}
+    - - 99
+      - 100
+      - {is_bidirectional: false}
+    - - 100
+      - 2
+      - {is_bidirectional: false}
+    - - 2
+      - 101
+      - {is_bidirectional: false}
+    - - 101
+      - 99
+      - {is_bidirectional: false}
+    - - 40
+      - 101
+      - {is_bidirectional: false}
+    - - 101
+      - 52
+      - {is_bidirectional: false}
+    - - 52
+      - 77
+      - {is_bidirectional: false}
+    - - 77
+      - 102
+      - {is_bidirectional: false}
+    - - 102
+      - 103
+      - {is_bidirectional: false}
+    - - 78
+      - 51
+      - {is_bidirectional: false}
+    - - 51
+      - 99
+      - {is_bidirectional: false}
+    - - 17
+      - 103
+      - {is_bidirectional: false}
+    - - 103
+      - 18
+      - {is_bidirectional: false}
+    - - 28
+      - 102
+      - {is_bidirectional: false}
+    - - 102
+      - 29
+      - {is_bidirectional: false}
+    - - 104
+      - 105
+      - {}
+    - - 105
+      - 104
+      - {}
+    - - 28
+      - 105
+      - {is_bidirectional: false}
+    - - 105
+      - 78
+      - {is_bidirectional: false}
+    - - 18
+      - 28
+      - {is_bidirectional: false}
+    - - 106
+      - 107
+      - {is_bidirectional: false}
+    - - 108
+      - 109
+      - {is_bidirectional: false}
+    - - 109
+      - 110
+      - {is_bidirectional: false}
+    - - 110
+      - 111
+      - {is_bidirectional: false}
+    - - 16
+      - 30
+      - {is_bidirectional: false}
+    - - 30
+      - 74
+      - {is_bidirectional: false}
+    - - 74
+      - 56
+      - {is_bidirectional: false}
+    - - 39
+      - 4
+      - {is_bidirectional: false}
+    - - 107
+      - 112
+      - {is_bidirectional: false}
+    - - 112
+      - 108
+      - {is_bidirectional: false}
+    - - 56
+      - 113
+      - {is_bidirectional: false}
+    - - 113
+      - 39
+      - {is_bidirectional: false}
+    - - 114
+      - 113
+      - {}
+    - - 113
+      - 114
+      - {}
+    - - 113
+      - 112
+      - {}
+    - - 112
+      - 113
+      - {}
+    - - 38
+      - 5
+      - {}
+    - - 5
+      - 38
+      - {}
+    - - 5
+      - 115
+      - {}
+    - - 115
+      - 5
+      - {}
+    - - 115
+      - 116
+      - {}
+    - - 116
+      - 115
+      - {}
+    - - 7
+      - 36
+      - {is_bidirectional: false}
+    - - 37
+      - 6
+      - {is_bidirectional: false}
+    - - 97
+      - 117
+      - {is_bidirectional: false}
+    - - 117
+      - 31
+      - {is_bidirectional: false}
+    - - 15
+      - 118
+      - {is_bidirectional: false}
+    - - 118
+      - 98
+      - {is_bidirectional: false}
+    - - 60
+      - 72
+      - {is_bidirectional: false}
+    - - 36
+      - 119
+      - {is_bidirectional: false}
+    - - 119
+      - 60
+      - {is_bidirectional: false}
+    - - 60
+      - 31
+      - {is_bidirectional: false}
+    - - 117
+      - 72
+      - {is_bidirectional: false}
+    - - 72
+      - 59
+      - {is_bidirectional: false}
+    - - 31
+      - 15
+      - {is_bidirectional: false}
+    - - 118
+      - 117
+      - {is_bidirectional: false}
+    - - 59
+      - 120
+      - {is_bidirectional: false}
+    - - 120
+      - 37
+      - {is_bidirectional: false}
+    - - 120
+      - 119
+      - {is_bidirectional: false}
+    - - 32
+      - 14
+      - {}
+    - - 14
+      - 32
+      - {}
+    - - 7
+      - 121
+      - {is_bidirectional: false}
+    - - 121
+      - 8
+      - {is_bidirectional: false}
+    - - 36
+      - 122
+      - {is_bidirectional: false}
+    - - 122
+      - 35
+      - {is_bidirectional: false}
+    - - 32
+      - 123
+      - {is_bidirectional: false}
+    - - 123
+      - 124
+      - {is_bidirectional: false}
+    - - 124
+      - 125
+      - {is_bidirectional: false}
+    - - 13
+      - 126
+      - {is_bidirectional: false}
+    - - 126
+      - 127
+      - {is_bidirectional: false}
+    - - 127
+      - 14
+      - {is_bidirectional: false}
+    - - 8
+      - 35
+      - {is_bidirectional: false}
+    - - 35
+      - 62
+      - {is_bidirectional: false}
+    - - 62
+      - 71
+      - {is_bidirectional: false}
+    - - 71
+      - 123
+      - {is_bidirectional: false}
+    - - 123
+      - 127
+      - {is_bidirectional: false}
+    - - 32
+      - 61
+      - {is_bidirectional: false}
+    - - 61
+      - 122
+      - {is_bidirectional: false}
+    - - 122
+      - 121
+      - {is_bidirectional: false}
+    - - 10
+      - 128
+      - {is_bidirectional: false}
+    - - 128
+      - 129
+      - {is_bidirectional: false}
+    - - 130
+      - 131
+      - {is_bidirectional: false}
+    - - 131
+      - 33
+      - {is_bidirectional: false}
+    - - 65
+      - 66
+      - {is_bidirectional: false}
+    - - 69
+      - 132
+      - {is_bidirectional: false}
+    - - 132
+      - 70
+      - {is_bidirectional: false}
+    - - 128
+      - 131
+      - {is_bidirectional: false}
+    - - 131
+      - 66
+      - {is_bidirectional: false}
+    - - 66
+      - 69
+      - {is_bidirectional: false}
+    - - 69
+      - 133
+      - {is_bidirectional: false}
+    - - 133
+      - 134
+      - {is_bidirectional: false}
+    - - 12
+      - 135
+      - {is_bidirectional: false}
+    - - 135
+      - 132
+      - {is_bidirectional: false}
+    - - 132
+      - 65
+      - {is_bidirectional: false}
+    - - 65
+      - 33
+      - {is_bidirectional: false}
+    - - 33
+      - 10
+      - {is_bidirectional: false}
+    - - 125
+      - 136
+      - {is_bidirectional: false}
+    - - 136
+      - 135
+      - {is_bidirectional: false}
+    - - 129
+      - 137
+      - {is_bidirectional: false}
+    - - 137
+      - 138
+      - {is_bidirectional: false}
+    - - 138
+      - 11
+      - {is_bidirectional: false}
+    - - 67
+      - 137
+      - {is_bidirectional: false}
+    - - 138
+      - 68
+      - {is_bidirectional: false}
+    - - 139
+      - 68
+      - {is_bidirectional: false}
+    - - 68
+      - 67
+      - {is_bidirectional: false}
+    - - 67
+      - 130
+      - {is_bidirectional: false}
+    - - 90
+      - 140
+      - {is_bidirectional: false}
+    - - 140
+      - 100
+      - {is_bidirectional: false}
+    - - 99
+      - 141
+      - {is_bidirectional: false}
+    - - 141
+      - 92
+      - {is_bidirectional: false}
+    - - 140
+      - 141
+      - {is_bidirectional: false}
+    - - 141
+      - 47
+      - {is_bidirectional: false}
+    - - 47
+      - 83
+      - {is_bidirectional: false}
+    - - 83
+      - 27
+      - {is_bidirectional: false}
+    - - 27
+      - 19
+      - {is_bidirectional: false}
+    - - 19
+      - 142
+      - {is_bidirectional: false}
+    - - 142
+      - 20
+      - {is_bidirectional: false}
+    - - 26
+      - 143
+      - {is_bidirectional: false}
+    - - 143
+      - 84
+      - {is_bidirectional: false}
+    - - 84
+      - 46
+      - {is_bidirectional: false}
+    - - 46
+      - 92
+      - {is_bidirectional: false}
+    - - 92
+      - 90
+      - {is_bidirectional: false}
+    - - 143
+      - 27
+      - {is_bidirectional: false}
+    - - 142
+      - 143
+      - {is_bidirectional: false}
+    - - 135
+      - 133
+      - {is_bidirectional: false}
+    - - 133
+      - 144
+      - {is_bidirectional: false}
+    - - 144
+      - 145
+      - {is_bidirectional: false}
+    - - 145
+      - 146
+      - {is_bidirectional: false}
+    - - 146
+      - 139
+      - {is_bidirectional: false}
+    - - 11
+      - 146
+      - {}
+    - - 146
+      - 11
+      - {}
+    - - 21
+      - 147
+      - {}
+    - - 147
+      - 21
+      - {}
+    - - 23
+      - 148
+      - {}
+    - - 148
+      - 23
+      - {}
+    - - 148
+      - 149
+      - {}
+    - - 149
+      - 148
+      - {}
+    - - 89
+      - 150
+      - {}
+    - - 150
+      - 89
+      - {}
+    - - 150
+      - 151
+      - {}
+    - - 151
+      - 150
+      - {}
+    - - 151
+      - 152
+      - {}
+    - - 152
+      - 151
+      - {}
+    - - 116
+      - 153
+      - {}
+    - - 153
+      - 116
+      - {}
+    - - 153
+      - 7
+      - {}
+    - - 7
+      - 153
+      - {}
+    - - 91
+      - 44
+      - {is_bidirectional: false}
+    - - 45
+      - 93
+      - {is_bidirectional: false}
+    - - 20
+      - 154
+      - {}
+    - - 154
+      - 20
+      - {}
+    - - 154
+      - 26
+      - {}
+    - - 26
+      - 154
+      - {}
+    - - 26
+      - 86
+      - {is_bidirectional: false}
+    - - 85
+      - 154
+      - {is_bidirectional: false}
+    - - 11
+      - 155
+      - {}
+    - - 155
+      - 11
+      - {}
+    - - 156
+      - 139
+      - {}
+    - - 139
+      - 156
+      - {}
+    - - 157
+      - 129
+      - {}
+    - - 129
+      - 157
+      - {}
+    - - 14
+      - 158
+      - {}
+    - - 158
+      - 14
+      - {}
+    - - 159
+      - 160
+      - {}
+    - - 160
+      - 159
+      - {}
+    - - 158
+      - 159
+      - {}
+    - - 159
+      - 158
+      - {}
+    vertices:
+    - - 11.21765
+      - -11.610500000000002
+      - {name: ''}
+    - - 10.72475
+      - -12.07875
+      - {name: ''}
+    - - 10.779850000000001
+      - -49.443900000000006
+      - {name: ''}
+    - - 10.769150000000002
+      - -58.11950000000001
+      - {name: ''}
+    - - 10.834000000000001
+      - -65.9428
+      - {name: ''}
+    - - 10.5379
+      - -71.90050000000001
+      - {name: ''}
+    - - 10.6359
+      - -83.06915000000001
+      - {name: ''}
+    - - 10.6346
+      - -84.9719
+      - {name: ''}
+    - - 10.5897
+      - -93.04785000000001
+      - {name: ''}
+    - - 10.679450000000001
+      - -102.49215
+      - {name: ''}
+    - - 10.6346
+      - -113.01325
+      - {name: ''}
+    - - 42.2244
+      - -123.51700000000001
+      - {name: ''}
+    - - 42.07730000000001
+      - -113.16035
+      - {name: ''}
+    - - 42.145450000000004
+      - -103.26865000000001
+      - {name: ''}
+    - - 42.3325
+      - -91.9117
+      - {name: ''}
+    - - 42.493500000000004
+      - -83.87575000000001
+      - {name: ''}
+    - - 42.20445000000001
+      - -66.2924
+      - {name: ''}
+    - - 42.428250000000006
+      - -57.90115
+      - {name: ''}
+    - - 42.4915
+      - -48.85495
+      - {name: ''}
+    - - 42.540150000000004
+      - -39.10795
+      - {name: ''}
+    - - 42.60635
+      - -30.0149
+      - {name: ''}
+    - - 42.41805
+      - -14.4391
+      - {name: ''}
+    - - 11.762550000000001
+      - -14.53465
+      - {name: ''}
+    - - 11.77255
+      - -12.0753
+      - {name: ''}
+    - - 10.721
+      - -15.3732
+      - {name: ''}
+    - - 41.899100000000004
+      - -14.95805
+      - {name: ''}
+    - - 42.04325
+      - -30.016000000000005
+      - {name: ''}
+    - - 42.0212
+      - -39.05930000000001
+      - {name: ''}
+    - - 41.8955
+      - -48.85495
+      - {name: ''}
+    - - 41.87695
+      - -57.817750000000004
+      - {name: ''}
+    - - 41.7
+      - -66.3795
+      - {name: ''}
+    - - 41.93135
+      - -83.94335000000001
+      - {name: ''}
+    - - 41.754000000000005
+      - -92.12035
+      - {name: ''}
+    - - 11.29705
+      - -113.06375000000001
+      - {name: ''}
+    - - 11.445500000000001
+      - -102.49610000000001
+      - {name: ''}
+    - - 11.445500000000001
+      - -93.11585000000001
+      - {name: ''}
+    - - 11.38455
+      - -84.38915
+      - {name: ''}
+    - - 11.37435
+      - -83.11095
+      - {name: ''}
+    - - 11.318750000000001
+      - -71.90050000000001
+      - {name: ''}
+    - - 11.529200000000001
+      - -65.97675000000001
+      - {name: ''}
+    - - 11.5642
+      - -58.11795
+      - {name: ''}
+    - - 11.593250000000001
+      - -22.98695
+      - {name: ''}
+    - - 10.67375
+      - -22.98235
+      - {name: ''}
+    - - 24.81205
+      - -22.98235
+      - {name: ''}
+    - - 24.94395
+      - -30.34165
+      - {name: ''}
+    - - 25.28685
+      - -31.080200000000005
+      - {name: ''}
+    - - 24.961550000000003
+      - -38.658
+      - {name: ''}
+    - - 25.20655
+      - -39.45685
+      - {name: ''}
+    - - 25.1022
+      - -40.02215
+      - {name: ''}
+    - - 25.024350000000002
+      - -43.8104
+      - {name: ''}
+    - - 25.262100000000004
+      - -44.809850000000004
+      - {name: ''}
+    - - 25.1802
+      - -48.539350000000006
+      - {name: ''}
+    - - 25.045450000000002
+      - -49.49255
+      - {name: ''}
+    - - 25.079150000000002
+      - -57.340300000000006
+      - {name: ''}
+    - - 24.816900000000004
+      - -58.12705
+      - {name: ''}
+    - - 24.767750000000003
+      - -58.586000000000006
+      - {name: ''}
+    - - 24.8167
+      - -66.0723
+      - {name: ''}
+    - - 24.83305
+      - -74.03405000000001
+      - {name: ''}
+    - - 24.68215
+      - -74.4867
+      - {name: ''}
+    - - 24.65195
+      - -83.0267
+      - {name: ''}
+    - - 24.89195
+      - -84.20080000000002
+      - {name: ''}
+    - - 24.81195
+      - -92.22680000000001
+      - {name: ''}
+    - - 24.51845
+      - -93.2878
+      - {name: ''}
+    - - 24.53985
+      - -102.21130000000001
+      - {name: ''}
+    - - 24.3265
+      - -102.85135000000001
+      - {name: ''}
+    - - 24.4263
+      - -112.94810000000001
+      - {name: ''}
+    - - 24.39985
+      - -113.9615
+      - {name: ''}
+    - - 24.31135
+      - -122.82395
+      - {name: ''}
+    - - 24.9505
+      - -122.86520000000002
+      - {name: ''}
+    - - 25.089850000000002
+      - -113.88795
+      - {name: ''}
+    - - 25.10995
+      - -103.12850000000002
+      - {name: ''}
+    - - 25.18525
+      - -93.30915
+      - {name: ''}
+    - - 25.411600000000004
+      - -82.87655000000001
+      - {name: ''}
+    - - 25.351300000000002
+      - -74.71145
+      - {name: ''}
+    - - 25.425200000000004
+      - -66.1241
+      - {name: ''}
+    - - 25.471950000000003
+      - -58.0996
+      - {name: ''}
+    - - 25.595550000000003
+      - -57.45855
+      - {name: ''}
+    - - 25.5774
+      - -49.5052
+      - {name: ''}
+    - - 25.80635
+      - -48.552400000000006
+      - {name: ''}
+    - - 25.83395
+      - -44.8866
+      - {name: ''}
+    - - 26.175850000000004
+      - -43.76035
+      - {name: ''}
+    - - 25.87415
+      - -42.79505
+      - {name: ''}
+    - - 25.773600000000002
+      - -40.080000000000005
+      - {name: ''}
+    - - 25.84265
+      - -39.13105
+      - {name: ''}
+    - - 25.796100000000003
+      - -38.41735
+      - {name: ''}
+    - - 25.83395
+      - -30.889200000000002
+      - {name: ''}
+    - - 25.673050000000003
+      - -30.326100000000004
+      - {name: ''}
+    - - 25.65295
+      - -22.3621
+      - {name: ''}
+    - - 25.673050000000003
+      - -14.5791
+      - {name: ''}
+    - - 10.656550000000001
+      - -33.15495000000001
+      - {name: ''}
+    - - 10.6776
+      - -38.835100000000004
+      - {name: ''}
+    - - 11.200650000000001
+      - -31.80925
+      - {name: ''}
+    - - 11.503400000000001
+      - -38.8774
+      - {name: ''}
+    - - 11.78115
+      - -33.28855
+      - {name: ''}
+    - - 41.935050000000004
+      - -74.25245
+      - {name: ''}
+    - - 41.67595
+      - -74.25895000000001
+      - {name: ''}
+    - - 42.3042
+      - -74.23305
+      - {name: ''}
+    - - 41.768100000000004
+      - -74.9059
+      - {name: ''}
+    - - 42.3006
+      - -74.90644999999999
+      - {name: ''}
+    - - 11.584150000000001
+      - -48.6051
+      - {name: ''}
+    - - 10.768650000000001
+      - -48.619600000000005
+      - {name: ''}
+    - - 11.5764
+      - -49.4667
+      - {name: ''}
+    - - 41.888200000000005
+      - -49.7534
+      - {name: ''}
+    - - 42.42015000000001
+      - -49.79235
+      - {name: ''}
+    - - 26.311900000000005
+      - -49.5816
+      - {name: ''}
+    - - 26.37025
+      - -48.5551
+      - {name: ''}
+    - - 10.8095
+      - -66.66995
+      - {name: ''}
+    - - 11.51125
+      - -66.63940000000001
+      - {name: ''}
+    - - 24.8599
+      - -66.63940000000001
+      - {name: ''}
+    - - 25.39385
+      - -66.80725
+      - {name: ''}
+    - - 41.7
+      - -67.0321
+      - {name: ''}
+    - - 42.23035
+      - -67.19865
+      - {name: ''}
+    - - 21.34405
+      - -66.62385
+      - {name: ''}
+    - - 21.35485
+      - -66.0091
+      - {name: ''}
+    - - 21.3333
+      - -64.8011
+      - {name: ''}
+    - - 7.93515
+      - -71.87155
+      - {name: ''}
+    - - 6.2845
+      - -73.5069
+      - {name: ''}
+    - - 41.90565000000001
+      - -83.07195000000002
+      - {name: ''}
+    - - 42.483450000000005
+      - -83.05545000000001
+      - {name: ''}
+    - - 18.30365
+      - -84.49685
+      - {name: ''}
+    - - 18.3277
+      - -83.08625
+      - {name: ''}
+    - - 10.5556
+      - -92.2718
+      - {name: ''}
+    - - 11.465150000000001
+      - -92.29070000000002
+      - {name: ''}
+    - - 41.7644
+      - -93.3708
+      - {name: ''}
+    - - 41.7704
+      - -102.08445
+      - {name: ''}
+    - - 41.6345
+      - -103.06010000000002
+      - {name: ''}
+    - - 42.272800000000004
+      - -102.16295000000001
+      - {name: ''}
+    - - 42.313900000000004
+      - -93.35185000000001
+      - {name: ''}
+    - - 10.6309
+      - -113.62610000000001
+      - {name: ''}
+    - - 10.6346
+      - -123.24275
+      - {name: ''}
+    - - 11.208
+      - -122.68150000000001
+      - {name: ''}
+    - - 11.3079
+      - -113.6983
+      - {name: ''}
+    - - 25.096000000000004
+      - -112.9569
+      - {name: ''}
+    - - 41.435750000000006
+      - -114.2625
+      - {name: ''}
+    - - 42.10705
+      - -114.2964
+      - {name: ''}
+    - - 41.4288
+      - -113.0896
+      - {name: ''}
+    - - 41.560050000000004
+      - -112.09530000000001
+      - {name: ''}
+    - - 24.2289
+      - -123.46310000000001
+      - {name: ''}
+    - - 25.03295
+      - -123.46310000000001
+      - {name: ''}
+    - - 32.078300000000006
+      - -122.6241
+      - {name: ''}
+    - - 10.623650000000001
+      - -39.525650000000006
+      - {name: ''}
+    - - 11.594750000000001
+      - -39.4609
+      - {name: ''}
+    - - 42.56375
+      - -38.50465
+      - {name: ''}
+    - - 42.063250000000004
+      - -38.451950000000004
+      - {name: ''}
+    - - 41.65515
+      - -118.9425
+      - {name: ''}
+    - - 41.71365
+      - -121.51645000000002
+      - {name: ''}
+    - - 41.65515
+      - -122.7011
+      - {name: ''}
+    - - 42.10995
+      - -11.6804
+      - {name: ''}
+    - - 11.7067
+      - -7.445350000000001
+      - {name: ''}
+    - - 7.13805
+      - -8.959000000000001
+      - {name: ''}
+    - - 6.96485
+      - -33.26065
+      - {name: ''}
+    - - 7.124850000000001
+      - -23.836850000000002
+      - {name: ''}
+    - - 4.6033
+      - -23.96955
+      - {name: ''}
+    - - 5.944400000000001
+      - -84.7303
+      - {name: ''}
+    - - 42.326600000000006
+      - -30.9659
+      - {name: ''}
+    - - 41.3151
+      - -126.87080000000002
+      - {name: ''}
+    - - 32.29885
+      - -126.71030000000002
+      - {name: ''}
+    - - 10.256450000000001
+      - -127.17195
+      - {name: ''}
+    - - 45.203
+      - -91.70665000000001
+      - {name: ''}
+    - - 45.308800000000005
+      - -83.99965
+      - {name: ''}
+    - - 49.0938
+      - -84.05945000000001
+      - {name: ''}
+lifts: {}

@@ -1,0 +1,7 @@
+image: /home/wlm/cbs-new/src/turtlebot3/turtlebot3_navigation/maps/map2.pgm
+resolution: 0.050000
+origin: [-2.478324, -11.300000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+

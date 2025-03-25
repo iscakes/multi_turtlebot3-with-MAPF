@@ -1,0 +1,50 @@
+DWAPlannerROS:
+  # 机器人运动参数
+  max_vel_x: 0.22   # 降低直行速度，让机器人更稳重
+  min_vel_x: 0.0   # 允许最低速度，确保机器人可以缓慢调整方向
+
+  max_vel_y: 0.0
+  min_vel_y: 0.0
+
+  max_vel_trans:  0.22   # 减小最大线速度，防止DWA冲刺
+  min_vel_trans:  0.0   # 允许更小的移动速度
+
+  max_vel_theta: 5.0  #  提高最大角速度，增强原地转弯能力
+  min_vel_theta: 1.5  # 保证转弯不过慢
+
+  acc_lim_x: 0.1  # 限制加速度，防止DWA突然加速导致贴墙
+  acc_lim_y: 0.0
+  acc_lim_theta: 5.0  # 提高角加速度，确保能迅速调整方向
+
+  # 目标容忍度
+  xy_goal_tolerance: 0.3
+  yaw_goal_tolerance: 0.5
+  latch_xy_goal_tolerance: false
+
+  # 🏎 预测仿真参数
+  sim_time: 1.5  # 增加仿真时间，让DWA提前规划更远的路径
+  vx_samples: 30
+  vy_samples: 0
+  vth_samples: 50
+  controller_frequency: 10.0
+
+  # 轨迹评分参数
+  path_distance_bias: 10.0  # 增强路径评分，避免DWA贴墙行驶
+  goal_distance_bias: 1.0   # 降低目标吸引力，避免机器人直奔目标
+  occdist_scale: 0.2       # 提高障碍物避让权重，让机器人远离障碍物
+  forward_point_distance: 0.6  # 让DWA提前规划更远的路径
+  stop_time_buffer: 0.3  
+  scaling_speed: 0.12  
+  max_scaling_factor: 0.1
+
+  # 振荡预防
+  oscillation_reset_dist: 0.05  
+
+  # Debugging
+  publish_traj_pc: true
+  publish_cost_grid_pc: true
+
+
+
+
+
