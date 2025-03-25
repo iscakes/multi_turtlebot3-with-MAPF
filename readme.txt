@@ -28,5 +28,3 @@ gazebo出现：nulti_turtlebot3.launch
   
   RViz修改部分：参考文件multi_turtlebot3_navigation.rviz
     注意替换tools部分，由于我们是给每个机器人都设置了一个group，所以move_base前应该有机器人的标号，必须为每个机器人设置/goal，否则无法向机器人发送/goal，同样也可以使用multi_robot_goal_sender.py脚本
-  
-  个人CSDN帖子：【基于ROS的多机器人路径规划导航实现 - CSDN App】https://blog.csdn.net/wlm2001429/article/details/144885376?sharetype=blog&shareId=144885376&sharerefer=APP&sharesource=wlm2001429&sharefrom=link
